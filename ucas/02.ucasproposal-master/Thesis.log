@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2017.3.23)  7 JUL 2017 09:07
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2017.3.23)  11 NOV 2017 12:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2996,7 +2996,7 @@ Package microtype Warning: Unknown slot number of character
 . 
 . Could not resolve font FangSong/I (it probably doesn't exist).
 .................................................
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 28.
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 29.
 
 (c:/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
 File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -3150,11 +3150,7 @@ Package microtype Warning: Unknown slot number of character
 . and font adjustment code:
 . 
 .................................................
-) (./Thesis.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-)
+) (./Thesis.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
  [1
 
@@ -3165,10 +3161,10 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 68.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 68.
  ) 
 Here is how much of TeX's memory you used:
- 29830 strings out of 493706
- 575445 string characters out of 6148913
+ 29833 strings out of 493706
+ 575520 string characters out of 6148913
  621171 words of memory out of 5000000
- 32824 multiletter control sequences out of 15000+600000
+ 32827 multiletter control sequences out of 15000+600000
  13610 words of font info for 80 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  69i,12n,77p,10461b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
